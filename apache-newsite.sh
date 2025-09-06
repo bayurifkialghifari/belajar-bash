@@ -87,5 +87,6 @@ echo ""
 echo "Setup complete! Your new site $DOMAIN is now configured."
 echo "Please ensure that your DNS settings point to this server's IP address."
 echo "You can place your website files in the document root: $DOCROOT"
+echo ""
 
 
